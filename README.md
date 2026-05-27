@@ -52,6 +52,8 @@ Press **Ctrl+C** at any time to stop the current hunt and return to the mode men
 
 ---
 
+![Demo](https://github.com/user-attachments/assets/13aa49c3-e52d-41fb-9157-7fd8554ec5d3)
+
 ## Modes
 
 ### [1] Any Shiny
